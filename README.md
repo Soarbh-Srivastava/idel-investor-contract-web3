@@ -104,23 +104,10 @@ cp .env.example .env
 npm run deploy:testnet
 ```
 
-## Project Structure
+### Related Repositories
+- Frontend (React): [https://github.com/Soarbh-Srivastava/idle-investor-frontend](https://github.com/Soarbh-Srivastava/web3-ideal-investor-game-frontend)
+- Backend (Node.js): [https://github.com/Soarbh-Srivastava/idle-investor-backend](https://github.com/Soarbh-Srivastava/web3-game-idle-investor-backend)
 
-```
-idle-investor/
-├── contracts/              # Smart contracts
-│   ├── InvestorToken.sol
-│   ├── InvestorNFT.sol
-│   └── IdleInvestorGame.sol
-├── scripts/               # Deployment scripts
-│   └── deploy.js
-├── test/                  # Contract tests
-│   └── IdleInvestorGame.test.js
-├── backend/               # Node.js backend (to be created)
-├── frontend/              # React frontend (to be created)
-├── hardhat.config.js
-└── package.json
-```
 
 ## Next Steps
 
