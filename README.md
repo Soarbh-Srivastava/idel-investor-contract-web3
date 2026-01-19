@@ -105,7 +105,7 @@ npm run deploy:testnet
 ```
 
 ### Related Repositories
-- Frontend (React): [https://github.com/Soarbh-Srivastava/idle-investor-frontend](https://github.com/Soarbh-Srivastava/web3-ideal-investor-game-frontend)
+- Frontend (next): [https://github.com/Soarbh-Srivastava/idle-investor-frontend](https://github.com/Soarbh-Srivastava/web3-ideal-investor-game-frontend)
 - Backend (Node.js): [https://github.com/Soarbh-Srivastava/idle-investor-backend](https://github.com/Soarbh-Srivastava/web3-game-idle-investor-backend)
 
 
